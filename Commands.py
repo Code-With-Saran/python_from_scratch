@@ -1,0 +1,13 @@
+#single line command code
+
+"""sfbsjfbfff
+fbsdhblhg
+hiuge
+ijjgestjhnrgfdngbjrsbn
+ggdhfgb;rhnfjknnr
+gndfg;btrshgrtnhrtkjhbtr
+gjbirthnjhbtryrhhbtuhrdsjbfiuhyewfahgcrweracwdcwtdfgsduyfbbgmjoiutmngf,jvdsjfvsrereb"""# Multi line command code
+
+'''gsgdftfdghsfdytfdhysfvyfbgtgbhbbutybjgsufcsjzvaecdatjcdsjgacdnsaxhdsfuysfkglsgffhbldsb
+ksdhvkdvgbfvfbBLOYoyyYVROYcycDDCtcdvyvdgfsCFtcDFYFcdfOOvdofCCOFcocODCcdDvcfdttcSodODLCdvh
+SSCDJACSDSTACSJADCSKSAC'''  # Another type of multicode command line
