@@ -51,5 +51,4 @@ def profile(**kwargs):
     print("Your profile")
     for key,value in kwargs.items():
         print(f"{key}: {value}")
-profile(name="saran",age=22,location="salem",phno=9344513738)        
-
+profile(name="saran",age=22,location="salem",phno=9344513738)
